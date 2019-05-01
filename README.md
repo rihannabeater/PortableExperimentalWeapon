@@ -1,6 +1,6 @@
 # PortableExperimentalWeapon
 Nerf Gun Sentry Tank
 
-Python Dependencies:
--pygame
--pigpiod
+Python Dependencies: \n
+-pygame \n
+-pigpiod \n
